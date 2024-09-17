@@ -1,0 +1,267 @@
+{
+  "data": {
+    "id": 52,
+    "name": "MLB - Giày sneakers unisex cổ thấp Hopper V2",
+    "slug": "mlb-giay-sneakers-unisex-co-thap-hopper-v2-GqF03Op7",
+    "price": "2590000.00",
+    "created_at": "2024-09-15T11:04:38.000000Z",
+    "updated_at": "2024-09-15T11:04:38.000000Z",
+    "variations": [
+      {
+        "id": 81,
+        "product_id": 52,
+        "group_id": 58,
+        "attribute_value_id": 32,
+        "created_at": "2024-09-15T11:04:38.000000Z",
+        "updated_at": "2024-09-15T11:04:38.000000Z",
+        "attribute_value": {
+          "id": 32,
+          "attribute_id": 9,
+          "value": "Xanh lá cây",
+          "created_at": "2024-09-04T15:39:54.000000Z",
+          "updated_at": "2024-09-04T15:39:54.000000Z"
+        },
+        "group": {
+          "id": 58,
+          "name": "Biến thể cho giày dép",
+          "created_at": "2024-09-13T06:03:07.000000Z",
+          "updated_at": "2024-09-13T06:03:07.000000Z"
+        },
+        "variation_values": [
+          {
+            "id": 96,
+            "product_variation_id": 81,
+            "attribute_value_id": 38,
+            "sku": "331623501822_FSLN4VMI",
+            "stock": 105,
+            "price": "2279200.00",
+            "discount": 12,
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z"
+          },
+          {
+            "id": 97,
+            "product_variation_id": 81,
+            "attribute_value_id": 39,
+            "sku": "148288646828_POMKQ6OI",
+            "stock": 108,
+            "price": "2201500.00",
+            "discount": 15,
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z"
+          },
+          {
+            "id": 98,
+            "product_variation_id": 81,
+            "attribute_value_id": 40,
+            "sku": "217137162815_4RV6Z0AX",
+            "stock": 110,
+            "price": "2331000.00",
+            "discount": 10,
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z"
+          }
+        ],
+        "variation_images": [
+          {
+            "id": 366,
+            "image_path": "https://product.hstatic.net/200000642007/product/50gns_3asdcbc33_1_5737a0301ab84a8e8ca69eff2a4bf7ee_ad3e430ef7ff4319aa3b676de23876cd_master.jpg",
+            "image_type": "thumbnail",
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z",
+            "product_variation_id": 81
+          },
+          {
+            "id": 367,
+            "image_path": "https://product.hstatic.net/200000642007/product/50gns_3asdcbc33_3_d6751c67ae0b4cfaa5a1182b2aaac113_6bf5c7aee5bd4d8f9880dfb655c8dde9_master.jpg",
+            "image_type": "album",
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z",
+            "product_variation_id": 81
+          },
+          {
+            "id": 368,
+            "image_path": "https://product.hstatic.net/200000642007/product/50gns_3asdcbc33_4_a59c1ee8331748a29a67ad10befc0143_cd61d2b64e63449eaf370c2a3345c724_master.jpg",
+            "image_type": "album",
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z",
+            "product_variation_id": 81
+          },
+          {
+            "id": 369,
+            "image_path": "https://product.hstatic.net/200000642007/product/50gns_3asdcbc33_5_128b0ad3a3b44e798b9d55c6a1c22c00_2fa5639408af45d3a7cddd7a43dabd2a_master.jpg",
+            "image_type": "album",
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z",
+            "product_variation_id": 81
+          },
+          {
+            "id": 370,
+            "image_path": "https://product.hstatic.net/200000642007/product/50gns_3asdcbc33_6_3f6fabde7ea8411198dc153897b02e35_277bb273408a4229879eb0f0df009bab_master.jpg",
+            "image_type": "album",
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z",
+            "product_variation_id": 81
+          },
+          {
+            "id": 371,
+            "image_path": "https://product.hstatic.net/200000642007/product/50gns_3asdcbc33_7_8288b9a4159a42069c7f7609ee6d8a7a_8ce0490baaa9422d8c196c69bc3adab7_master.jpg",
+            "image_type": "album",
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z",
+            "product_variation_id": 81
+          }
+        ]
+      },
+      {
+        "id": 82,
+        "product_id": 52,
+        "group_id": 58,
+        "attribute_value_id": 33,
+        "created_at": "2024-09-15T11:04:38.000000Z",
+        "updated_at": "2024-09-15T11:04:38.000000Z",
+        "attribute_value": {
+          "id": 33,
+          "attribute_id": 9,
+          "value": "Xanh Nước biển",
+          "created_at": "2024-09-04T15:39:54.000000Z",
+          "updated_at": "2024-09-04T15:39:54.000000Z"
+        },
+        "group": {
+          "id": 58,
+          "name": "Biến thể cho giày dép",
+          "created_at": "2024-09-13T06:03:07.000000Z",
+          "updated_at": "2024-09-13T06:03:07.000000Z"
+        },
+        "variation_values": [
+          {
+            "id": 99,
+            "product_variation_id": 82,
+            "attribute_value_id": 40,
+            "sku": "347958407908_TI18YD5W",
+            "stock": 200,
+            "price": "2072000.00",
+            "discount": 20,
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z"
+          },
+          {
+            "id": 100,
+            "product_variation_id": 82,
+            "attribute_value_id": 41,
+            "sku": "709356832496_0XQQSU5K",
+            "stock": 205,
+            "price": "2020200.00",
+            "discount": 22,
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z"
+          }
+        ],
+        "variation_images": [
+          {
+            "id": 372,
+            "image_path": "https://product.hstatic.net/200000642007/product/43ppl_3asdcbc33_1_1f06cb020fc741388808def33e50cfae_b1a2b50259e8432f9e0e857be1afdfb7_master.jpg",
+            "image_type": "thumbnail",
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z",
+            "product_variation_id": 82
+          },
+          {
+            "id": 373,
+            "image_path": "https://product.hstatic.net/200000642007/product/43ppl_3asdcbc33_2_13f0a7c7e3cc43f6a72ec5de55936e3e_ddcd02b40a664adbb28667bb38db15d7_master.jpg",
+            "image_type": "album",
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z",
+            "product_variation_id": 82
+          },
+          {
+            "id": 374,
+            "image_path": "https://product.hstatic.net/200000642007/product/43ppl_3asdcbc33_3_657652e44ee0404bb2bbef7d7d200c37_1e5cf22cbf83469e9ba7750b7369f369_master.jpg",
+            "image_type": "album",
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z",
+            "product_variation_id": 82
+          },
+          {
+            "id": 375,
+            "image_path": "https://product.hstatic.net/200000642007/product/43ppl_3asdcbc33_4_f3eb0f966e134bf4aa6533cfcb2cd00f_54d97570b11a4fc4a5603830b62a2aaa_master.jpg",
+            "image_type": "album",
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z",
+            "product_variation_id": 82
+          },
+          {
+            "id": 376,
+            "image_path": "https://product.hstatic.net/200000642007/product/43ppl_3asdcbc33_4_f3eb0f966e134bf4aa6533cfcb2cd00f_54d97570b11a4fc4a5603830b62a2aaa_master.jpg",
+            "image_type": "album",
+            "created_at": "2024-09-15T11:04:38.000000Z",
+            "updated_at": "2024-09-15T11:04:38.000000Z",
+            "product_variation_id": 82
+          }
+        ]
+      }
+    ]
+  },
+  "cart": [
+    {
+      "productId": 1,
+      "name": "MLB - Giày sneakers unisex cổ thấp Hopper V2",
+      "color": "Xanh lá cây",
+      "size": "40",
+      "price": "2331000.00",
+      "quantity": 5,
+      "image": "https://product.hstatic.net/200000642007/product/50gns_3asdcbc33_1_5737a0301ab84a8e8ca69eff2a4bf7ee_ad3e430ef7ff4319aa3b676de23876cd_master.jpg",
+      "id": 1
+    },
+    {
+      "productId": 52,
+      "name": "MLB - Giày sneakers unisex cổ thấp Hopper V2",
+      "color": "Xanh Nước biển",
+      "size": 40,
+      "price": "2072000.00",
+      "quantity": 1,
+      "image": "https://product.hstatic.net/200000642007/product/43ppl_3asdcbc33_1_1f06cb020fc741388808def33e50cfae_b1a2b50259e8432f9e0e857be1afdfb7_master.jpg",
+      "id": 2
+    },
+    {
+      "productId": 52,
+      "name": "MLB - Giày sneakers unisex cổ thấp Hopper V2",
+      "color": "Xanh lá cây",
+      "size": 40,
+      "price": "2331000.00",
+      "quantity": 1,
+      "image": "https://product.hstatic.net/200000642007/product/50gns_3asdcbc33_1_5737a0301ab84a8e8ca69eff2a4bf7ee_ad3e430ef7ff4319aa3b676de23876cd_master.jpg",
+      "id": 3
+    },
+    {
+      "productId": 52,
+      "name": "MLB - Giày sneakers unisex cổ thấp Hopper V2",
+      "color": "Xanh lá cây",
+      "size": 39,
+      "price": "2201500.00",
+      "quantity": 1,
+      "image": "https://product.hstatic.net/200000642007/product/50gns_3asdcbc33_1_5737a0301ab84a8e8ca69eff2a4bf7ee_ad3e430ef7ff4319aa3b676de23876cd_master.jpg",
+      "id": 4
+    },
+    {
+      "productId": 52,
+      "name": "MLB - Giày sneakers unisex cổ thấp Hopper V2",
+      "color": "Xanh lá cây",
+      "size": 40,
+      "price": "2331000.00",
+      "quantity": 1,
+      "image": "https://product.hstatic.net/200000642007/product/50gns_3asdcbc33_1_5737a0301ab84a8e8ca69eff2a4bf7ee_ad3e430ef7ff4319aa3b676de23876cd_master.jpg",
+      "id": 5
+    },
+    {
+      "productId": 52,
+      "name": "MLB - Giày sneakers unisex cổ thấp Hopper V2",
+      "color": "Xanh lá cây",
+      "size": 40,
+      "price": "2331000.00",
+      "quantity": 1,
+      "image": "https://product.hstatic.net/200000642007/product/50gns_3asdcbc33_1_5737a0301ab84a8e8ca69eff2a4bf7ee_ad3e430ef7ff4319aa3b676de23876cd_master.jpg",
+      "id": 6
+    }
+  ]
+}
